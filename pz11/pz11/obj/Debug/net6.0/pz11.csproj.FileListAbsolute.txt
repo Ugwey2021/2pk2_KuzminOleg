@@ -1,0 +1,15 @@
+C:\Users\cpecn\source\repos\pz11\pz11\obj\Debug\net6.0\pz11.csproj.AssemblyReference.cache
+C:\Users\cpecn\source\repos\pz11\pz11\obj\Debug\net6.0\pz11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cpecn\source\repos\pz11\pz11\obj\Debug\net6.0\pz11.AssemblyInfoInputs.cache
+C:\Users\cpecn\source\repos\pz11\pz11\obj\Debug\net6.0\pz11.AssemblyInfo.cs
+C:\Users\cpecn\source\repos\pz11\pz11\obj\Debug\net6.0\pz11.csproj.CoreCompileInputs.cache
+C:\Users\cpecn\source\repos\pz11\pz11\bin\Debug\net6.0\pz11.exe
+C:\Users\cpecn\source\repos\pz11\pz11\bin\Debug\net6.0\pz11.deps.json
+C:\Users\cpecn\source\repos\pz11\pz11\bin\Debug\net6.0\pz11.runtimeconfig.json
+C:\Users\cpecn\source\repos\pz11\pz11\bin\Debug\net6.0\pz11.dll
+C:\Users\cpecn\source\repos\pz11\pz11\bin\Debug\net6.0\ref\pz11.dll
+C:\Users\cpecn\source\repos\pz11\pz11\bin\Debug\net6.0\pz11.pdb
+C:\Users\cpecn\source\repos\pz11\pz11\obj\Debug\net6.0\pz11.dll
+C:\Users\cpecn\source\repos\pz11\pz11\obj\Debug\net6.0\ref\pz11.dll
+C:\Users\cpecn\source\repos\pz11\pz11\obj\Debug\net6.0\pz11.pdb
+C:\Users\cpecn\source\repos\pz11\pz11\obj\Debug\net6.0\pz11.genruntimeconfig.cache
